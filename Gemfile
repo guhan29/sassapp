@@ -48,6 +48,9 @@ end
 # Twitter bootstrap library for front-end ui and layout
 gem 'bootstrap-sass', '3.3.7'
 
+# Use font awesome gems for ApplicationController
+gem 'font-awesome-sass', '4.6.2'
+
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
   gem 'web-console', '>= 3.3.0'
