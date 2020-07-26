@@ -46,7 +46,7 @@ group :development, :test do
 end
 
 # Twitter bootstrap library for front-end ui and layout
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 
 # Use font awesome gems for ApplicationController
 gem 'font-awesome-sass', '4.6.2'
